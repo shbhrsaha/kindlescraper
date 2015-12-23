@@ -1,4 +1,6 @@
 
+__Update 2015-12-23: Check out [Dickens](https://github.com/shbhrsaha/dickens) for a better experience.__
+
 Kindle Scraper
 ==============
 
